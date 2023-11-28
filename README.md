@@ -1,3 +1,2 @@
 # TextVE
-The code for "Scene-text Oriented Visual Entailment: Task, Dataset and Solution".
-We will release source code and the corresponding dataset soon.
+TextVE can be seen at https://drive.google.com/drive/folders/1meJPeNAVbMbDMVspk7AdMTJVxaTP5onT?q=parent:1meJPeNAVbMbDMVspk7AdMTJVxaTP5onT
